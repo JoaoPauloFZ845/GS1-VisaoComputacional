@@ -81,7 +81,7 @@ Resultados obtidos no conjunto de teste:
 | Modelo | Acurácia no teste |
 |---|---|
 | CNN base | 95,33% |
-| CNN maior | 96,67% |
+| CNN maior | 97,33% |
 
 A **CNN maior** foi escolhida como melhor modelo, pois apresentou maior acurácia no conjunto de teste. O resultado ficou acima da referência mínima de **88%** definida na especificação do projeto.
 
