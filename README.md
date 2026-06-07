@@ -35,6 +35,8 @@ Essa classificação adiciona ao OrbitalWatch uma camada visual para apoiar o mo
 
 Foi utilizado um dataset de imagens de satélite relacionado à presença ou ausência de queimadas.
 
+Link do Dataset: https://1drv.ms/u/c/6265d53a934c268c/IQDPAE3Zh4aNRbIwg8dghJLBAduH5MjgGC0HWeA4RFIkaUI?e=zI42cE
+
 Para manter o projeto leve e compatível com o GitHub, foi usada uma amostra balanceada com:
 
 - 500 imagens da classe `wildfire`;
